@@ -1,0 +1,32 @@
+C:\Users\ip521-20\source\repos\electron jurnal\electron jurnal\bin\Debug\electron jurnal.exe.config
+C:\Users\ip521-20\source\repos\electron jurnal\electron jurnal\bin\Debug\electron jurnal.exe
+C:\Users\ip521-20\source\repos\electron jurnal\electron jurnal\bin\Debug\electron jurnal.pdb
+C:\Users\ip521-20\source\repos\electron jurnal\electron jurnal\bin\Debug\Dapper.dll
+C:\Users\ip521-20\source\repos\electron jurnal\electron jurnal\bin\Debug\MaterialSkin.dll
+C:\Users\ip521-20\source\repos\electron jurnal\electron jurnal\bin\Debug\Dapper.xml
+C:\Users\ip521-20\source\repos\electron jurnal\electron jurnal\obj\Debug\electron jurnal.csprojAssemblyReference.cache
+C:\Users\ip521-20\source\repos\electron jurnal\electron jurnal\obj\Debug\electron_jurnal.Properties.Resources.resources
+C:\Users\ip521-20\source\repos\electron jurnal\electron jurnal\obj\Debug\electron jurnal.csproj.GenerateResource.cache
+C:\Users\ip521-20\source\repos\electron jurnal\electron jurnal\obj\Debug\electron jurnal.csproj.CoreCompileInputs.cache
+C:\Users\ip521-20\source\repos\electron jurnal\electron jurnal\obj\Debug\electron jurnal.csproj.CopyComplete
+C:\Users\ip521-20\source\repos\electron jurnal\electron jurnal\obj\Debug\electron jurnal.exe
+C:\Users\ip521-20\source\repos\electron jurnal\electron jurnal\obj\Debug\electron jurnal.pdb
+C:\Users\ip521-20\source\repos\electron jurnal\electron jurnal\obj\Debug\electron_jurnal.Form1.resources
+C:\Users\ip521-20\source\repos\electron jurnal\electron jurnal\obj\Debug\electron_jurnal.Form2.resources
+C:\Users\ip521-20\Source\Repos\legitplaya\electronic-journal\electron jurnal\electron jurnal\bin\Debug\Database1.mdf
+C:\Users\ip521-20\Source\Repos\legitplaya\electronic-journal\electron jurnal\electron jurnal\bin\Debug\Database1_log.ldf
+C:\Users\ip521-20\Source\Repos\legitplaya\electronic-journal\electron jurnal\electron jurnal\bin\Debug\electron jurnal.exe.config
+C:\Users\ip521-20\Source\Repos\legitplaya\electronic-journal\electron jurnal\electron jurnal\bin\Debug\electron jurnal.exe
+C:\Users\ip521-20\Source\Repos\legitplaya\electronic-journal\electron jurnal\electron jurnal\bin\Debug\electron jurnal.pdb
+C:\Users\ip521-20\Source\Repos\legitplaya\electronic-journal\electron jurnal\electron jurnal\bin\Debug\Dapper.dll
+C:\Users\ip521-20\Source\Repos\legitplaya\electronic-journal\electron jurnal\electron jurnal\bin\Debug\MaterialSkin.dll
+C:\Users\ip521-20\Source\Repos\legitplaya\electronic-journal\electron jurnal\electron jurnal\bin\Debug\Dapper.xml
+C:\Users\ip521-20\Source\Repos\legitplaya\electronic-journal\electron jurnal\electron jurnal\obj\Debug\electron jurnal.csprojAssemblyReference.cache
+C:\Users\ip521-20\Source\Repos\legitplaya\electronic-journal\electron jurnal\electron jurnal\obj\Debug\electron_jurnal.Form1.resources
+C:\Users\ip521-20\Source\Repos\legitplaya\electronic-journal\electron jurnal\electron jurnal\obj\Debug\electron_jurnal.Form2.resources
+C:\Users\ip521-20\Source\Repos\legitplaya\electronic-journal\electron jurnal\electron jurnal\obj\Debug\electron_jurnal.Properties.Resources.resources
+C:\Users\ip521-20\Source\Repos\legitplaya\electronic-journal\electron jurnal\electron jurnal\obj\Debug\electron jurnal.csproj.GenerateResource.cache
+C:\Users\ip521-20\Source\Repos\legitplaya\electronic-journal\electron jurnal\electron jurnal\obj\Debug\electron jurnal.csproj.CoreCompileInputs.cache
+C:\Users\ip521-20\Source\Repos\legitplaya\electronic-journal\electron jurnal\electron jurnal\obj\Debug\electron jurnal.csproj.CopyComplete
+C:\Users\ip521-20\Source\Repos\legitplaya\electronic-journal\electron jurnal\electron jurnal\obj\Debug\electron jurnal.exe
+C:\Users\ip521-20\Source\Repos\legitplaya\electronic-journal\electron jurnal\electron jurnal\obj\Debug\electron jurnal.pdb
